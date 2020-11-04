@@ -1,7 +1,7 @@
 {
   "trends": [
     {
-      "ID": 51661,
+      "id": 51661,
       "post_author": 155,
       "post_date": "2019-12-02 11:00:43",
       "post_date_gmt": "2019-12-02 14:00:43",
@@ -26,7 +26,7 @@
       "comment_count": 0
     },
     {
-      "ID": 51827,
+      "id": 51827,
       "post_author": 155,
       "post_date": "2020-01-20 09:00:43",
       "post_date_gmt": "2020-01-20 12:00:43",
@@ -51,7 +51,7 @@
       "comment_count": 0
     },
     {
-      "ID": 52674,
+      "id": 52674,
       "post_author": 155,
       "post_date": "2020-10-29 09:28:41",
       "post_date_gmt": "2020-10-29 12:28:41",
